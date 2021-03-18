@@ -1,6 +1,6 @@
 hi :>
 
-Dayeon Moon
+> Dayeon Moon
 
 > 💻 CNU CSE Junior(2019)
 
