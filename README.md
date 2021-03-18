@@ -2,7 +2,9 @@ hi :>
 
 > Dayeon Moon
 
-> 💻 CNU CSE Junior(2019)
+> 💻 ChungNam National University
+
+>>   Computer Science & Engineering, Junior(2019)
 
 
 > 📫 Contact : 0217dayun@naver.com
