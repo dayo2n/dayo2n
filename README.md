@@ -10,7 +10,8 @@ hi :>
 
 > 🆔 Instagram @dayo2n
 
-<!--[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=ansek217)](https://solved.ac/ansek217)-->
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=ansek217)](https://solved.ac/ansek217)
 
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dayo2n&layout=compact)](https://github.com/dayo2n/github-readme-stats)-->
