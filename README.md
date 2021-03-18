@@ -1,4 +1,14 @@
-hi : )
+hi :>
+
+Dayeon Moon
+
+> 💻 CNU CSE Junior(2019)
+
+
+> 📫 Contact : 0217dayun@naver.com
+
+
+> 🆔 Instagram @dayo2n
 
 <!--[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=ansek217)](https://solved.ac/ansek217)-->
 
