@@ -18,7 +18,7 @@ hi :>
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dayo2n&layout=compact)](https://github.com/dayo2n/github-readme-stats)-->
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dayo2n&show_icons=true&theme=dracula)
+<!--![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dayo2n&show_icons=true&theme=dracula)-->
 
 <!--
 **dayo2n/dayo2n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
