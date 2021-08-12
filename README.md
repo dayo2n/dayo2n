@@ -7,7 +7,7 @@ hi :>
 >>   Computer Science & Engineering, Junior(2019)
 
 
-> 📫 Contact : 0217dayun@naver.com
+> 📫 Contact : 0217dayun@naver.com | dayeon.moon.cnu@gmail.com
 
 
 > 🆔 Instagram @dayo2n
