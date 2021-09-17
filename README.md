@@ -1,11 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=D3D3D3&height=300&section=header&text=DaYeon%20Moon%20◡̈&fontAlign=80&fontSize=40&fontColor=474747&animation=twinkling)
+<h3 align="center">
+    문다연 DaYeon Moon ◡̈
+</h3>
+<h5 align="center">
+💻 ChungNam National University
+    
+Computer Science & Engineering, Junior(2019)
+    
+📫 Contact me 0217dayun@naver.com | dayeon.moon.cnu@gmail.com
 
-<p align=center>
-    
-<a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fday2on&count_bg=%23E7A2A2&title_bg=%23B20909&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true"/></a>
-    
-</p>
 
 <p align=center>
    
@@ -22,21 +25,8 @@
 </a>
     
 
+<h2></h2>
 
-</p>
-<h2>
-</h2>
-
-<h3 align="center">
-    문다연 DaYeon Moon ◡̈
-</h3>
-<h5 align="center">
-💻 ChungNam National University
-    
-Computer Science & Engineering, Junior(2019)
-    
-📫 Contact me 0217dayun@naver.com | dayeon.moon.cnu@gmail.com
-    
 <h3 align="center">
     
 🛠 Tech ⚙️
@@ -72,3 +62,11 @@ Computer Science & Engineering, Junior(2019)
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=ansek217)](https://solved.ac/ansek217)
+    
+<h2></h2>
+    
+<p align=center>
+<a href="https://hits.seeyoufarm.com">
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fday2on&count_bg=%23E7A2A2&title_bg=%23B20909&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true"/></a>
+
+</p>
