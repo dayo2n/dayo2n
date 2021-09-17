@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=D3D3D3&height=300&section=header&text=🍟DaYeon%20Moon🍟&fontSize=90&rotate=20&fontAlign=90&fontAlignY=-10&fontColor=474747&fontSize=40&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=slice&color=D3D3D3&height=300&section=header&text=DaYeon%20Moon%20◡̈&fontAlign=80&fontSize=40&fontColor=474747&animation=twinkling)
 
 <p align=center>
     
@@ -55,13 +55,13 @@ Computer Science & Engineering, Junior(2019)
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 <img src="https://img.shields.io/badge/JS-black?style=flat-square&logo=JavaScript&logoColor=F7DF1E"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-<img src="https://img.shields.io/badge/Oracle Database-black?style=flat-square&logo=Oracle&logoColor=F80000"
+<img src="https://img.shields.io/badge/Oracle Database-black?̊̈style=flat-square&logo=Oracle&logoColor=F80000"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
     
 🔨 Tool 🔩
     
     
-<img src="https://img.shields.io/badge/MacBook Pro(2019, Big Sur)-black?style=flat-square&logo=Apple&logoColor=FFFFFF"
+<img src="https://img.shields.io/badge/MacBook Pro(2019, Big Sur)-black?̊̈style=flat-square&logo=Apple&logoColor=FFFFFF"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
     
 <img src="https://img.shields.io/badge/Xcode-black?style=flat-square&logo=Xcode&logoColor=1793D1"
@@ -72,8 +72,3 @@ Computer Science & Engineering, Junior(2019)
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=ansek217)](https://solved.ac/ansek217)
-
-
-
-   
- 
