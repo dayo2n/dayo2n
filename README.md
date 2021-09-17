@@ -1,10 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=B0B0B0&height=300&section=header&text=✨DaYeon%20Moon✨&fontSize=90&rotate=20&fontAlign=90&fontAlignY=-10&fontColor=474747&fontSize=40&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=slice&color=D3D3D3&height=300&section=header&text=🍟DaYeon%20Moon🍟&fontSize=90&rotate=20&fontAlign=90&fontAlignY=-10&fontColor=474747&fontSize=40&animation=twinkling)
 
 <p align=center>
     
 <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fday2on&count_bg=%23C28CB7&title_bg=%237E0A65&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true"/>
-</a>
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fday2on&count_bg=%23E7A2A2&title_bg=%23B20909&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true"/></a>
     
 </p>
 
@@ -25,7 +24,12 @@
 
 
 </p>
+<h2>
+</h2>
 
+<h3 align="center">
+    문다연 DaYeon Moon ◡̈
+</h3>
 <h5 align="center">
 💻 ChungNam National University
     
@@ -43,12 +47,24 @@ Computer Science & Engineering, Junior(2019)
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 <img src="https://img.shields.io/badge/Swift-black?style=flat-square&logo=Swift&logoColor=1793D1"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<img src="https://img.shields.io/badge/HTML-black?style=flat-square&logo=HTML5&logoColor=E34F26"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<img src="https://img.shields.io/badge/CSS-black?style=flat-square&logo=CSS3&logoColor=1572B6"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<img src="https://img.shields.io/badge/PHP-black?style=flat-square&logo=PHP&logoColor=777BB4"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<img src="https://img.shields.io/badge/JS-black?style=flat-square&logo=JavaScript&logoColor=F7DF1E"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<img src="https://img.shields.io/badge/Oracle Database-black?style=flat-square&logo=Oracle&logoColor=F80000"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
     
 🔨 Tool 🔩
     
-<img src="https://img.shields.io/badge/Xcode-black?style=flat-square&logo=Xcode&logoColor=1793D1"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+    
 <img src="https://img.shields.io/badge/MacBook Pro(2019, Big Sur)-black?style=flat-square&logo=Apple&logoColor=FFFFFF"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+    
+<img src="https://img.shields.io/badge/Xcode-black?style=flat-square&logo=Xcode&logoColor=1793D1"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 <img src="https://img.shields.io/badge/Eclipse-black?style=flat-square&logo=Eclipse IDE&logoColor=071D49"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
