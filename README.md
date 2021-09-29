@@ -33,12 +33,6 @@ Computer Science & Engineering, Junior(2019)
 
 <img src="https://img.shields.io/badge/Java-black?style=flat-square&logo=Java&logoColor=FF901E"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-    
-<img src="https://img.shields.io/badge/iOS-black?style=flat-square&logo=iOS&logoColor=E8E8E8"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-<img src="https://img.shields.io/badge/Swift-black?style=flat-square&logo=Swift&logoColor=1793D1"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-    
 <img src="https://img.shields.io/badge/HTML-black?style=flat-square&logo=HTML5&logoColor=E34F26"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 <img src="https://img.shields.io/badge/CSS-black?style=flat-square&logo=CSS3&logoColor=1572B6"
@@ -47,7 +41,6 @@ Computer Science & Engineering, Junior(2019)
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 <img src="https://img.shields.io/badge/JS-black?style=flat-square&logo=JavaScript&logoColor=F7DF1E"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-    
 <img src="https://img.shields.io/badge/Oracle Database-black?̊̈style=flat-square&logo=Oracle&logoColor=F80000"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
     
@@ -56,12 +49,19 @@ Computer Science & Engineering, Junior(2019)
     
 <img src="https://img.shields.io/badge/MacBook Pro(2019, Big Sur)-black?̊̈style=flat-square&logo=Apple&logoColor=FFFFFF"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-    
 <img src="https://img.shields.io/badge/Xcode-black?style=flat-square&logo=Xcode&logoColor=1793D1"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 <img src="https://img.shields.io/badge/Eclipse-black?style=flat-square&logo=Eclipse IDE&logoColor=071D49"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 <img src="https://img.shields.io/badge/VSCode-black?style=flat-square&logo=Visual Studio Code&logoColor=0094F5"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+    
+💫 Interested in these days... 🔥
+    
+    
+<img src="https://img.shields.io/badge/iOS-black?style=flat-square&logo=iOS&logoColor=E8E8E8"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<img src="https://img.shields.io/badge/Swift-black?style=flat-square&logo=Swift&logoColor=1793D1"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=ansek217)](https://solved.ac/ansek217)
