@@ -47,7 +47,7 @@ Computer Science & Engineering, Junior(2019)
 🔨 Tool 🔩
     
     
-<img src="https://img.shields.io/badge/MacBook Pro(2019, Big Sur)-black?̊̈style=flat-square&logo=Apple&logoColor=FFFFFF"
+<img src="https://img.shields.io/badge/MacBook Pro(2019, Monterey)-black?̊̈style=flat-square&logo=Apple&logoColor=FFFFFF"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 <img src="https://img.shields.io/badge/Xcode-black?style=flat-square&logo=Xcode&logoColor=1793D1"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
