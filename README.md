@@ -7,7 +7,7 @@
     
 Computer Science & Engineering, Junior(2019)
     
-📫 Contact me 0217dayun@naver.com | dayeon.moon.cnu@gmail.com
+📫 Contact me 0217dayun@naver.com
 
 
 <p align=center>
