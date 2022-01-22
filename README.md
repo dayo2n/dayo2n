@@ -5,7 +5,7 @@
 <h5 align="center">
 💻 ChungNam National University
     
-Computer Science & Engineering, Junior(2019)
+Computer Science & Engineering, Senior(2019)
     
 📫 Contact me 0217dayun@naver.com
 
