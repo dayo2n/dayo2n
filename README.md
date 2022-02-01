@@ -64,7 +64,9 @@ Computer Science & Engineering, Senior(2019)
 <img src="https://img.shields.io/badge/Swift-black?style=flat-square&logo=Swift&logoColor=1793D1"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=ansek217)](https://solved.ac/ansek217)
+<!-- [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=ansek217)](https://solved.ac/ansek217) -->
+    
+[![solved.ac](http://mazandi.herokuapp.com/api?handle=ansek217&theme=dark)](https://solved.ac/ansek217/)
     
 <h2></h2>
     
