@@ -68,6 +68,8 @@ Computer Science & Engineering, Senior(2019)
     
 [![solved.ac](http://mazandi.herokuapp.com/api?handle=ansek217&theme=dark)](https://solved.ac/ansek217/)
     
+<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dayo2n)](https://github.com/anuraghazra/github-readme-stats) -->
+    
 <h2></h2>
     
 <p align=center>
