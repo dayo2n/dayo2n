@@ -29,7 +29,7 @@ Computer Science & Engineering, Senior(2019)
 
 <h3 align="center">
     
-🛠 Tech ⚙️
+<!-- 🛠 Tech ⚙️
 
 <img src="https://img.shields.io/badge/Java-black?style=flat-square&logo=Java&logoColor=FF901E"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
@@ -42,7 +42,7 @@ Computer Science & Engineering, Senior(2019)
 <img src="https://img.shields.io/badge/JS-black?style=flat-square&logo=JavaScript&logoColor=F7DF1E"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 <img src="https://img.shields.io/badge/Oracle Database-black?̊̈style=flat-square&logo=Oracle&logoColor=F80000"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/> -->
     
 🔨 Tool 🔩
     
@@ -56,7 +56,7 @@ Computer Science & Engineering, Senior(2019)
 <img src="https://img.shields.io/badge/VSCode-black?style=flat-square&logo=Visual Studio Code&logoColor=0094F5"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
     
-💫 Interested in these days... 🔥
+💫 Interested in ... 🔥
     
     
 <img src="https://img.shields.io/badge/iOS-black?style=flat-square&logo=iOS&logoColor=E8E8E8"
