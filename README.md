@@ -6,8 +6,12 @@
 💻 ChungNam National University
     
 Computer Science & Engineering, Senior(2019)
+
+    
     
 📫 Contact me 0217dayun@naver.com
+    
+Please specify the purpose clearly when contacting.
 
 
 <p align=center>
