@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=D3D3D3&height=300&section=header&text=DaYeon%20Moon%20◡̈&fontAlign=80&fontSize=40&fontColor=474747&animation=twinkling)
+
 <h3 align="center">
     문다연 DaYeon Moon ◡̈
 </h3>
