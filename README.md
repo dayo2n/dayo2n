@@ -1,7 +1,13 @@
 
-<h3 align="center">
+<h2 align="center">
     문다연 DaYeon Moon ◡̈
-</h3>
+
+    
+    
+    
+</h2>
+
+
 <h5 align="center">
 💻 ChungNam National University
     
