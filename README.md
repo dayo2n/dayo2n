@@ -53,19 +53,7 @@ Please specify the purpose clearly when contacting.
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 <img src="https://img.shields.io/badge/Oracle Database-black?̊̈style=flat-square&logo=Oracle&logoColor=F80000"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/> -->
-    
-🔨 Tool 🔩
-    
-    
-<img src="https://img.shields.io/badge/MacBook Pro(2019, Monterey)-black?̊̈style=flat-square&logo=Apple&logoColor=FFFFFF"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-<img src="https://img.shields.io/badge/Xcode-black?style=flat-square&logo=Xcode&logoColor=1793D1"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-<img src="https://img.shields.io/badge/Eclipse-black?style=flat-square&logo=Eclipse IDE&logoColor=071D49"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-<img src="https://img.shields.io/badge/VSCode-black?style=flat-square&logo=Visual Studio Code&logoColor=0094F5"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-    
+ 
 💫 Interested in ... 🔥
     
     
