@@ -54,7 +54,7 @@ Please specify the purpose clearly when contacting.
 <img src="https://img.shields.io/badge/Oracle Database-black?̊̈style=flat-square&logo=Oracle&logoColor=F80000"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/> -->
  
-💫 Interested in ... 🔥
+Interested in ... 🔥
     
     
 <img src="https://img.shields.io/badge/iOS-black?style=flat-square&logo=iOS&logoColor=E8E8E8"
