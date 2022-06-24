@@ -15,7 +15,7 @@ Computer Science & Engineering (2019)
 
     
     
-📫 Contact me 0217dayun@naver.com
+📫 Contact 0217dayun@naver.com
 
 
 <p align=center>
