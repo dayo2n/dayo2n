@@ -1,6 +1,6 @@
 
 <h2 align="center">
-    문다연 DaYeon Moon ◡̈
+    문다연 DaYeon Moon :))
 
     
     
