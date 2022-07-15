@@ -1,12 +1,11 @@
-# 문다연 DaYeon Moon :))
-
+# 문다연 DaYeon Moon ☾
 [PORTFOLIO]() | [CV]()
 
 <img alt="apple" src ="https://img.shields.io/badge/iOS-000000?&style=for-the-badge&logo=Apple&logoColor=white"/>  <img alt="swift" src ="https://img.shields.io/badge/swift-F05138.svg?&style=for-the-badge&logo=Swift&logoColor=white"/>
 
 - Chungnam National Univ.
 - Computer Science and Engineering
-- 📧 0217dayun@naver.com
+- ✉︎ 0217dayun@naver.com
 
 
 <!-- [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=ansek217)](https://solved.ac/ansek217) -->
