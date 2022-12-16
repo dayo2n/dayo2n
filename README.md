@@ -1,5 +1,5 @@
 # 문다연 DaYeon Moon ☾
-[PORTFOLIO]() | [CV]()
+[PORTFOLIO](https://dev-moon.notion.site/) | [CV]()
  
 - Chungnam National Univ.
 - Computer Science and Engineering
