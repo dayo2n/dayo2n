@@ -2,14 +2,14 @@
 
 #### ✉︎ 0217dayun@naver.com  |  [🫧 PORTFOLIO](https://dev-moon.notion.site/)
 </br>
- 
-#### Chungnam National Univ.
-- Computer Science and Engineering
-- 2019.03 - 2023.02
 
 #### Nexters 22nd
 - iOS Developer
 - 2023.01 - 2023.03
+ 
+#### Chungnam National Univ.
+- Computer Science and Engineering
+- 2019.03 - 2023.02
 
 
 <!-- [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=ansek217)](https://solved.ac/ansek217) -->
