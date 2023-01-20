@@ -3,6 +3,11 @@
 #### ✉︎ 0217dayun@naver.com  |  [🫧 PORTFOLIO](https://dev-moon.notion.site/)
 </br>
 
+#### Apple Developer Academy @POSTECH 2기
+- iOS Developer
+- 2023.03 - 2023.12
+
+
 #### Nexters 22nd
 - iOS Developer
 - 2023.01 - 2023.03
