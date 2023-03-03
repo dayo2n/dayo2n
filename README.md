@@ -1,6 +1,5 @@
 # 문다연 DaYeon Moon ☾
 
-<br/>
 </br>
 
 #### Apple Developer Academy @POSTECH 2기
@@ -23,7 +22,7 @@
     
 <!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dayo2n)](https://github.com/anuraghazra/github-readme-stats) -->
 
-</br></br></br>
+</br></br></br></br>
 <sub> <a href="https://ios-moon.tistory.com/" target="_blank"><img alt="Tistory" src ="https://img.shields.io/badge/Tistory-FFFFFF?&style=for-the-badge&logo=Tistory&logoColor=black"/></a></sub>
  <sub> <a href="https://velog.io/@dayo2n" target="_blank"><img alt="Velog" src ="https://img.shields.io/badge/Velog-254d41?&style=for-the-badge&logo=Velog&logoColor=#20C997"/></a></sub>
 
