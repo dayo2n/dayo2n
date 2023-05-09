@@ -2,6 +2,11 @@
 
 </br>
 
+#### WWDC23 Swift Student Challenge Winner
+- [Six dots](https://github.com/dayo2n/WWDC23-Swift-Student-Challenge)
+- 2023.05.
+
+
 #### Apple Developer Academy @POSTECH 2기
 - iOS Developer
 - 2023.03 - 2023.12
