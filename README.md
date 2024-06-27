@@ -4,7 +4,7 @@
 
 #### InterparkTriple
 - [Triple](https://triple.guide/) 클라이언트팀 | iOS 개발
-- 2024.07.01.~
+- 2024.07 -
 
 
 #### WWDC24 Swift Student Challenge Winner
