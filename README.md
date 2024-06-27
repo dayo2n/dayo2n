@@ -24,8 +24,9 @@
 
 #### Nexters
 - iOS Developer
-- 22nd 2023.01 - 2023.03
-- 24th 2024.01 - 2024.03
+- 25기 2024.07 - 2024.09
+- 24기 2024.01 - 2024.03
+- 22기 2023.01 - 2023.03
  
 #### Chungnam National Univ.
 - Computer Science and Engineering
