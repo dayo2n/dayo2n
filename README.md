@@ -3,7 +3,7 @@
 </br>
 
 #### InterparkTriple
-- TRIPLE 클라이언트 iOS 개발
+- **TRIPLE** 클라이언트 iOS 개발
 - 2024.07 -
 
 
