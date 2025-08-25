@@ -5,12 +5,12 @@
 
 #### WWDC24 Swift Student Challenge Winner
 - [SF Symbols Finder](https://github.com/dayo2n/WWDC24-Swift-Student-Challenge)
-- 2024.04.
+- 2024.04
 
 
 #### WWDC23 Swift Student Challenge Winner
 - [Six dots](https://github.com/dayo2n/WWDC23-Swift-Student-Challenge)
-- 2023.05.
+- 2023.05
 
 
 #### Apple Developer Academy @POSTECH 2기
