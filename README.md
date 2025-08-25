@@ -1,4 +1,4 @@
-#### InterparkTriple
+#### NOL UNIVERSE
 - **TRIPLE** 클라이언트 iOS 개발
 - 2024.07 -
 
@@ -20,9 +20,10 @@
 
 #### Nexters
 - iOS Developer
-- 25기 2024.07 - 2024.09
-- 24기 2024.01 - 2024.03
-- 22기 2023.01 - 2023.03
+- 27기 2025.07 - 2025.08
+- 25기 2024.07 - 2024.08
+- 24기 2024.01 - 2024.02
+- 22기 2023.01 - 2023.02
  
 #### Chungnam National Univ.
 - Computer Science and Engineering
