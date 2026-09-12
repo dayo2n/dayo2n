@@ -1,33 +1,17 @@
 #### NOL UNIVERSE
-- **TRIPLE** 클라이언트 iOS 개발
-- 2024.07 -
+- **NOL** 콘텐츠 자동생성 에이전트 개발 (2026.05~)
+- **TRIPLE** 클라이언트 iOS 개발 (2024.07~)
 
 
-#### WWDC24 Swift Student Challenge Winner
-- [SF Symbols Finder](https://github.com/dayo2n/WWDC24-Swift-Student-Challenge)
-- 2024.04
+#### Swift Student Challenge Winner
+- **WWDC24** [SF Symbols Finder](https://github.com/dayo2n/WWDC24-Swift-Student-Challenge) (2024.04)
+- **WWDC25** [Six dots](https://github.com/dayo2n/WWDC23-Swift-Student-Challenge) (2023.05)
 
 
-#### WWDC23 Swift Student Challenge Winner
-- [Six dots](https://github.com/dayo2n/WWDC23-Swift-Student-Challenge)
-- 2023.05
-
-
-#### Apple Developer Academy @POSTECH 2기
-- iOS Developer
-- 2023.03 - 2023.12
-
-
-#### Nexters
-- iOS Developer
-- 27기 2025.07 - 2025.08
-- 25기 2024.07 - 2024.08
-- 24기 2024.01 - 2024.02
-- 22기 2023.01 - 2023.02
- 
-#### Chungnam National Univ.
-- Computer Science and Engineering
-- 2019.03 - 2023.02
+#### etc.
+- Apple Developer Academy @POSTECH 2기 (2023.03 - 2023.12)
+- 충남대학교 컴퓨터융합학부 (2019.03 - 2023.02)
+- 넥스터즈 iOS 개발
 
 
 <!-- [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=ansek217)](https://solved.ac/ansek217) -->
