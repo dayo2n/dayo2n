@@ -3,7 +3,7 @@
 - **TRIPLE** 클라이언트 iOS 개발 (2024.07~)
 
 
-#### Swift Student Challenge Winner
+####  Swift Student Challenge Winner
 - **WWDC24** [SF Symbols Finder](https://github.com/dayo2n/WWDC24-Swift-Student-Challenge) (2024.04)
 - **WWDC25** [Six dots](https://github.com/dayo2n/WWDC23-Swift-Student-Challenge) (2023.05)
 
